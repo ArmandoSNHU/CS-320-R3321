@@ -1,3 +1,5 @@
+Armando Gomez
+02/27/2024
 # CS-320-R3321
 
 How can I ensure that my code, program, or software is functional and secure?
